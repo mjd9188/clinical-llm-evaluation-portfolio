@@ -1,6 +1,6 @@
 # Case 01 — Clinical Reasoning
 
-**Status:** In Progress
+**Status:** completed
 
 ## Evaluation Skill
 
